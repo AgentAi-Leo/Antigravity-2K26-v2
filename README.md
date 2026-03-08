@@ -1,4 +1,4 @@
-v2 SKILLS versA - streamlit
+v2 SKILLS vers-A - streamlit
 
 Updated Convtr-PlainTxt2PDF
 
