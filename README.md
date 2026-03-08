@@ -1,4 +1,6 @@
-v2 SKILLS - streamlit
+v2 SKILLS versA - streamlit
+
+Updated Convtr-PlainTxt2PDF
 
 .gitignore hardened — these will never be committed to GitHub:
 .env  .env.*  *.env  .envrc  *.key  *.pem  secrets.json
